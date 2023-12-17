@@ -1,0 +1,7 @@
+.btn-grad{
+    background: linear-gradient(yellor, dark);
+}
+ 
+#btn-grad{
+    background-image: linear-gradient(red, yellow, green);
+}
